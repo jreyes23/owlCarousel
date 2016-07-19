@@ -5,7 +5,7 @@
     "enoba"
   ],
   "description": "",
-  "main": ["css/owl.carousel.css","js/owl.carousel.min.js"],
+  "main": ["css/owl.carousel.css","js/owl.carousel.js"],
   "license": "MIT",
   "ignore": [
     "**/.*",
