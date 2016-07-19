@@ -1,0 +1,17 @@
+{
+  "name": "owl-carousel",
+  "homepage": "",
+  "authors": [
+    "enoba"
+  ],
+  "description": "",
+  "main": ["css/owl.carousel.css","js/owl.carousel.min.js"],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
